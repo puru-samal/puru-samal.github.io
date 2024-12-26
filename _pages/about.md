@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Carnegie Mellon University
+subtitle: M.S. Music & Technology @ Carnegie Mellon University
 
 profile:
   align: right
