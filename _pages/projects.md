@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection projects I thought were cool!
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [ml/dl, systems, dsp]
 horizontal: false
 ---
