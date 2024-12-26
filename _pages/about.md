@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Carnegie Mellon University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>6236 Fifth Avenue</p>
+    <p>Pittsburgh, Pennsylvania 15232</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+# Change picture -> name picture `prof_pic.jpg` and put it in the `img/` folder.
+# add page links -> [publications page](/al-folio/publications/)
 ---
 
-Hi! Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my corner of the internet! I’m Puru, currently pursuing a joint Master's degree on a fellowship at Carnegie Mellon University, where I work across the Schools of Computer Science, Electrical and Computer Engineering, and Music. My academic and research interests span the fields of Computer Systems, Machine Learning, and Digital Signal Processing. While I’m fascinated by all of these areas, I have a particular focus on Audio Signal Processing, Music Information Retrieval, Sound Synthesis/Generation, Performance Modeling, and Real-Time Audio Systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of my academic pursuits, you can often find me shooting hoops, [creating music with everyday objects](https://youtube.com/playlist?list=PLvAiR4lyi3mZD7nfLja-NN_DJQRzc_KpW&si=0O77zlznqzjQPh4t) (because everything can be an instrument!), or exploring diverse cuisines with my partner, Caitlin. I also enjoy delving into challenging books and research papers, relishing the ongoing process of learning and occasionally marveling at how much more there is to discover.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
